@@ -1,0 +1,5 @@
+User-Agent: *
+
+Disallow: /private/
+
+Sitemap: http://adrianjavier.com/sitemap.xml
